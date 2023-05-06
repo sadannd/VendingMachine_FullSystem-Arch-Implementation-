@@ -1,0 +1,2 @@
+Go to terminal and type
+java -jar VM.jar
